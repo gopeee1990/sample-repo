@@ -1,0 +1,6 @@
+dfdsfdgdsgsdgsdfdkjsldkfjls
+docker login <jfrogurl>
+docker tag <image id> url/repo/
+docker push url/repo/
+
+docker image to ecr
